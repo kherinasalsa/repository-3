@@ -1,5 +1,7 @@
 Rencana konten
 java script
+* ES6
+* Framework javascript
 php framework
 interview
 blog
